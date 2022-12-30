@@ -1,5 +1,8 @@
 [實作Facebook教學影片](https://www.youtube.com/watch?v=dBotWYKYYWc])
 
+
+![](./1672382806988.jpg)
+
 使用套件
 1. Tailwind
 2. Tailwind-scrollbar-hide
